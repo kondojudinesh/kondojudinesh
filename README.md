@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/software-developer-banner.gif" alt="Software Developer Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Kondoju Dinesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
