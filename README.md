@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="2816" height="1536" alt="Gemini_Generated_Image_9aakea9aakea9aak" src="https://github.com/user-attachments/assets/d5ba51f2-0f9c-4ea2-a47a-0bfb583b1e36" />
+
 
 
 <h1 align="center">Hi 👋, I'm Kondoju Dinesh</h1>
