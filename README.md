@@ -1,6 +1,4 @@
 <img width="2516" height="300" alt="Gemini_Generated_Image_9aakea9aakea9aak" src="https://github.com/user-attachments/assets/d5ba51f2-0f9c-4ea2-a47a-0bfb583b1e36" />
-<img src="c702add5-8138-435f-ae4a-efa7b1f0e771.gif" alt="Demo GIF" width="2516"/>
-
 
 <h1 align="center">Hi 👋, I'm Kondoju Dinesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
