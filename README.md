@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kondoju Dinesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kondojudinesh&label=Profile%20views&color=0e75b6&style=flat" alt="kondojudinesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kondojudinesh" alt="kondojudinesh" /></a> </p>
-
 - 🔭 I’m currently exploring on **Genarative AI with Emerging Technologies**
 
 - 🌱 I’m currently passionate to **Developing Creativity Impactful Innovative Tech Stack Projects**
